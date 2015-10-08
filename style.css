@@ -1,0 +1,58 @@
+#myBlogTitle {
+  color : skyblue;
+  text-align: center;
+}
+.paragraphs {
+  font-family: Arial;
+  font-size: 1.5em;
+  margin-top: 2em;
+  margin-right: 10em;
+  margin-left: 10em;
+  text-align: justify;
+
+}
+.hobbiesList {
+  font-size: 1.5em;
+  text-align: center;
+  
+}
+.centered {
+  text-align : center;
+  clear: both;
+ 
+}
+
+img.profilePhoto {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 50%;
+}
+.border {
+  text-align: justify;
+  border : 10px dotted pink;
+  margin: 1em 10em;
+  font-size: 3em;
+}
+
+.navigation > div {
+  font-size: 1.5em;
+  border: 2px solid skyblue;
+  text-align: center;
+  padding: 5px 10px;
+  float: left;
+  cursor: pointer;
+  
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* body {
+  background-color: lightgray;
+}
+
+http://192.168.33.10:8080/
+*/
